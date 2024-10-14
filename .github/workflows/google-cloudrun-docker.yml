@@ -36,7 +36,7 @@ on:
 
 env:
   PROJECT_ID: 'image-segmentation-438322' # TODO: update to your Google Cloud project ID
-  Name: 'image-segmentation-repo'
+  NAME: 'image-segmentation-repo'
   REGION: 'us-central1' # TODO: update to your region
   SERVICE: 'image-segmentation-app' # TODO: update to your service name
   LOCATION: 'us-central1'
